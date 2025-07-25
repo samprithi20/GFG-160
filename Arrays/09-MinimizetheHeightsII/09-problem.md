@@ -41,3 +41,11 @@ Difference = 17 - 6 = **11**
 - 1 ≤ `k` ≤ 10⁷  
 - 1 ≤ `n` ≤ 10⁵  
 - 1 ≤ `arr[i]` ≤ 10⁷  
+
+---
+
+## ✅ Expected Complexities
+
+- **Time Complexity:** O(n log n)  
+- **Auxiliary Space:** O(1)
+
