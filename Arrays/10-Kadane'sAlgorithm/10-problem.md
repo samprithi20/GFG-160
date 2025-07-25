@@ -44,3 +44,10 @@ The subarray `[5, 4, 1, 7, 8]` has the largest sum = **25**
 
 - 1 ≤ `arr.size()` ≤ 10⁵  
 - -10⁴ ≤ `arr[i]` ≤ 10⁴  
+
+---
+
+## ✅ Expected Complexities
+
+- **Time Complexity:** O(n)  
+- **Auxiliary Space:** O(1)
