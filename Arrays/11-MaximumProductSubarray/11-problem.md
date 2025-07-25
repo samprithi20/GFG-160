@@ -1,10 +1,5 @@
 # Maximum Product Subarray
 
-**Difficulty:** Medium  
-**Accuracy:** 18.09%  
-**Submissions:** 467K+  
-**Points:** 4  
-
 ---
 
 ## 📝 Problem Statement
