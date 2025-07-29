@@ -16,6 +16,7 @@ Two strings are considered anagrams if they contain the same characters with exa
 **Input:**  
 `s1 = "geeks"`
 `s2 = "kseeg"`
+
 **Output:**  
 `true`
 **Explanation:**  
@@ -25,8 +26,9 @@ Both the strings have the same characters with the same frequency. So, they are 
 
 ### Example 2
 **Input:**  
-`s1 = "allergy"`21``
+`s1 = "allergy"`
 `s2 = "allergyy"`
+
 **Output:**  
 `false`
 **Explanation:**  
@@ -38,6 +40,7 @@ Although the characters are mostly the same, `s2` contains an extra `'y'` charac
 **Input:**  
 `s1 = "listen"`
 `s2 = "lists"`
+
 **Output:**  
 `false`
 **Explanation:**  
