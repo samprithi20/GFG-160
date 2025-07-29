@@ -1,11 +1,5 @@
 # Anagram
 
-**Difficulty:** Easy  
-**Accuracy:** 44.93%  
-**Submissions:** 422K+  
-**Points:** 2  
-**Average Time:** 20m  
-
 ---
 
 ## Problem Statement
