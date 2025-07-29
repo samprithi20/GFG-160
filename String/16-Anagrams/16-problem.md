@@ -19,6 +19,7 @@ Two strings are considered anagrams if they contain the same characters with exa
 
 **Output:**  
 `true`
+
 **Explanation:**  
 Both the strings have the same characters with the same frequency. So, they are anagrams.
 
@@ -31,6 +32,7 @@ Both the strings have the same characters with the same frequency. So, they are 
 
 **Output:**  
 `false`
+
 **Explanation:**  
 Although the characters are mostly the same, `s2` contains an extra `'y'` character. Since the frequency of characters differs, the strings are not anagrams.
 
@@ -43,6 +45,7 @@ Although the characters are mostly the same, `s2` contains an extra `'y'` charac
 
 **Output:**  
 `false`
+
 **Explanation:**  
 The characters in the two strings are not the same — some are missing or extra. So, they are not anagrams.
 
