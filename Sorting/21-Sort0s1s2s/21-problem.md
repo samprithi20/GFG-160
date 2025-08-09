@@ -24,12 +24,6 @@ Given an array `arr[]` containing only 0s, 1s, and 2s. Sort the array in ascendi
 
 ---
 
-## Follow-up
-
-Could you come up with a one-pass algorithm using only constant extra space?
-
----
-
 ## Constraints
 
 - `1 ≤ arr.size() ≤ 10^6`  
